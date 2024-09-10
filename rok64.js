@@ -21,9 +21,9 @@
 // { nama: 'abshdf', alamat: 'fdf', data: { asd: 'adfd', dfd: 3 } }
 
 /** encrypt with key */
-// encrypt = rokKeyEncrypt('coba','yourkey')
+// encrypt = rokKeyEncrypt('coba','yourkey123!')
 // result : 
-// ONTW1IpuPWSV5khyTUlQd=2=.0XaAWx
+// OOTU1UpxPeSS55lZZWVTdJUR.cMmytEl=
 
 // console.log(rokKeyDecrypt(encrypt,'yourkey'))
 // result :
