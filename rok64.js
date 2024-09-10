@@ -25,7 +25,7 @@
 // result : 
 // OOTU1UpxPeSS55lZZWVTdJUR.cMmytEl=
 
-// console.log(rokKeyDecrypt(encrypt,'yourkey'))
+// console.log(rokKeyDecrypt(encrypt,'yourkey123!'))
 // result :
 // coba
 
